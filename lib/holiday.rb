@@ -60,8 +60,8 @@ def all_winter_holiday_supplies(holiday_hash)
           array << supply
         end
       end
-      end
     end
+  end
   return array
 end
 
